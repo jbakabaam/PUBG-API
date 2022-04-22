@@ -1,4 +1,4 @@
 PUBG-API
 ===
 
-Hello ESTful API!
+Hello `RESTful API`!
